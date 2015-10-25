@@ -1,0 +1,26 @@
+[
+    {
+        "id": "51",
+        "title": "Best Buy",
+        "phone": "3225-5888",
+        "img": "011c543008ffb4c5768342effb1cd8359.jpg",
+        "offervalid": "NULL",
+        "online": "TRUE"
+    },
+    {
+        "id": "52",
+        "title": "Disney",
+        "phone": "3325-9966",
+        "img": "0781543b877902de1d464d4ec6ee774a3.jpg",
+        "offervalid": "NULL",
+        "online": "TRUE"
+    },
+    {
+        "id": "44",
+        "title": "Spanx",
+        "phone": "(00) 4789-6857",
+        "img": "0835dee7aaabc32ad63934e4b2fa20a22.jpg",
+        "offervalid": "NULL",
+        "online": "TRUE"
+    }
+]
